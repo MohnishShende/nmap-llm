@@ -171,5 +171,3 @@ SOFTWARE.
 GitHub: [https://github.com/MohnishShende](https://github.com/MohnishShende)
 Cybersecurity Researcher | AI & Network Security Automation
 
-```
-
